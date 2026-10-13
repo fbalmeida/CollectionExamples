@@ -1,0 +1,14 @@
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\bin\Debug\net9.0\CollectionLINQ.exe
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\bin\Debug\net9.0\CollectionLINQ.deps.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\bin\Debug\net9.0\CollectionLINQ.runtimeconfig.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\bin\Debug\net9.0\CollectionLINQ.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\bin\Debug\net9.0\CollectionLINQ.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\CollectionLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\CollectionLINQ.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\CollectionLINQ.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\CollectionLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\CollectionLINQ.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\refint\CollectionLINQ.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\CollectionLINQ.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\CollectionLINQ.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\CollectionLINQ\CollectionLINQ\obj\Debug\net9.0\ref\CollectionLINQ.dll

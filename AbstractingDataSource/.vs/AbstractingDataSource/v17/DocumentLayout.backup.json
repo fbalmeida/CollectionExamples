@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Documents\\Projetos\\AulasAlura\\Colecoes\\AbstractingDataSource\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626B335C-B7FD-4F8B-8C1B-CA8C3E3C45D8}|AbstractingDataSource\\AbstractingDataSource.csproj|c:\\users\\felipe\\documents\\projetos\\aulasalura\\colecoes\\abstractingdatasource\\abstractingdatasource\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626B335C-B7FD-4F8B-8C1B-CA8C3E3C45D8}|AbstractingDataSource\\AbstractingDataSource.csproj|solutionrelative:abstractingdatasource\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Projetos\\AulasAlura\\Colecoes\\AbstractingDataSource\\AbstractingDataSource\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractingDataSource\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Projetos\\AulasAlura\\Colecoes\\AbstractingDataSource\\AbstractingDataSource\\Program.cs",
+              "RelativeToolTip": "AbstractingDataSource\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:53:19.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

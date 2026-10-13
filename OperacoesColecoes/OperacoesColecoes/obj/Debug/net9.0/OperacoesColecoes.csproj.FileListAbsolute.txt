@@ -1,0 +1,14 @@
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\OperacoesColecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\OperacoesColecoes.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\OperacoesColecoes.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\OperacoesColecoes.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\bin\Debug\net9.0\OperacoesColecoes.exe
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\bin\Debug\net9.0\OperacoesColecoes.deps.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\bin\Debug\net9.0\OperacoesColecoes.runtimeconfig.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\bin\Debug\net9.0\OperacoesColecoes.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\bin\Debug\net9.0\OperacoesColecoes.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\OperacoesColecoes.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\refint\OperacoesColecoes.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\OperacoesColecoes.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\OperacoesColecoes.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\Colecoes\OperacoesColecoes\OperacoesColecoes\obj\Debug\net9.0\ref\OperacoesColecoes.dll
