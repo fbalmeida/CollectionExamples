@@ -1,0 +1,15 @@
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\bin\Debug\net9.0\Strings.exe
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\bin\Debug\net9.0\Strings.deps.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\bin\Debug\net9.0\Strings.runtimeconfig.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\bin\Debug\net9.0\Strings.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\bin\Debug\net9.0\Strings.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\Strings.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\Strings.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\Strings.sourcelink.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\Strings.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\refint\Strings.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\Strings.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\Strings.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\Strings\Strings\obj\Debug\net9.0\ref\Strings.dll

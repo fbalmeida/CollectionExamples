@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Documents\\Projetos\\AulasAlura\\CollectionExamples\\CollectionExamples\\RegularExpressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF3C7FF-87D3-4605-A4F0-7017E27A9048}|RegularExpressions\\RegularExpressions.csproj|c:\\users\\felipe\\documents\\projetos\\aulasalura\\collectionexamples\\collectionexamples\\regularexpressions\\regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF3C7FF-87D3-4605-A4F0-7017E27A9048}|RegularExpressions\\RegularExpressions.csproj|solutionrelative:regularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Projetos\\AulasAlura\\CollectionExamples\\CollectionExamples\\RegularExpressions\\RegularExpressions\\Program.cs",
+              "RelativeDocumentMoniker": "RegularExpressions\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Projetos\\AulasAlura\\CollectionExamples\\CollectionExamples\\RegularExpressions\\RegularExpressions\\Program.cs",
+              "RelativeToolTip": "RegularExpressions\\Program.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAgwNEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:20:23.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

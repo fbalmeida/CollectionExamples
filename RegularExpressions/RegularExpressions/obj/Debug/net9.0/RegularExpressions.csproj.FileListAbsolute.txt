@@ -1,0 +1,15 @@
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\bin\Debug\net9.0\RegularExpressions.exe
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\bin\Debug\net9.0\RegularExpressions.deps.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\bin\Debug\net9.0\RegularExpressions.runtimeconfig.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\bin\Debug\net9.0\RegularExpressions.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\bin\Debug\net9.0\RegularExpressions.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\RegularExpressions.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\RegularExpressions.sourcelink.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\RegularExpressions.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\refint\RegularExpressions.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\RegularExpressions.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\RegularExpressions.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\CollectionExamples\CollectionExamples\RegularExpressions\RegularExpressions\obj\Debug\net9.0\ref\RegularExpressions.dll
